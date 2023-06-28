@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @anuveh
+- 👀 I’m interested in data engineering and digital product design
+- 🌱 I’m currently learning data pipelines
